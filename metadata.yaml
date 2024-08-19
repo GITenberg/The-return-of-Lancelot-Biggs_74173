@@ -1,5 +1,8 @@
 _repo: The-return-of-Lancelot-Biggs_74173
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74173-h/images/cover.jpg
 creator:
   author:
     agent_name: Bond, Nelson S.
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34095
     wikipedia: https://en.wikipedia.org/wiki/Nelson_S._Bond
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74173#The-return-of-Lancelot-Biggs
 gutenberg_issued: '2024-08-01'
 gutenberg_type: Text
 identifiers:
